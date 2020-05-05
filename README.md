@@ -3,11 +3,11 @@
 Introduction to Data Visualisation and Web Applications Using R
 ---------------------------------------------------------------
 
-### By: Osama Mahmoud, Luke A. McGuinness and Chris Penfold
+### By: Chris Penfold, Luke A. McGuinness and Osama Mahmoud
 
 [![Build Status](https://travis-ci.org/statcourses/BristolVis.svg?branch=master)](https://travis-ci.org/statcourses/BristolVis)
 
-This page provides materials and practicals of the [data visualisation course](http://www.bristol.ac.uk/medical-school/study/short-courses/Introduction-to-Data-Visualisation-and-Web-Applications-Using-R/) held at the University of Bristol, November 2019.
+This page provides materials and practicals of the [data visualisation course](http://www.bristol.ac.uk/medical-school/study/short-courses/Introduction-to-Data-Visualisation-and-Web-Applications-Using-R/) held at the University of Bristol, January 2021.
 
 Installing the `BristolVis` package
 -----------------------------------
